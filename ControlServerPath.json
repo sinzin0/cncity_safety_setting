@@ -1,0 +1,7 @@
+{
+  "LoginPageUrl": "https://auth.ditwin.companywe.co.kr",
+  "AuthServer": "api-auth.ditwin.companywe.co.kr",
+  "ETLServer": "api-etl.ditwin.companywe.co.kr",
+  "SafeServer": "api-safe.ditwin.companywe.co.kr",
+  "Monitoring": "api-monitoring.ditwin.companywe.co.kr"
+}
