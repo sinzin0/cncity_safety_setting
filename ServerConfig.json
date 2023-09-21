@@ -1,0 +1,11 @@
+{
+  "AssembleJsonURL": "http://3.35.135.253/ARData/GovInfo/",
+  "Image360URL": "http://3.35.135.253/ARData/SurroundViewInfo/",
+  "MainMapURL": "http://3.35.135.253/MapData/MainMap/index.html",
+  "AnimationURL": "http://3.35.135.253/ARData/Animation/",
+  "SignalServer": "ws://3.35.135.253:12776/cncitydigitaltwin",
+  "TurnServer": "turn:3.35.135.253",
+  "TurnServerID": "test",
+  "TurnServerPassword": "12qwaszx",
+  "EventPageURL": "http://15.165.71.200/safety-manage/"
+}
